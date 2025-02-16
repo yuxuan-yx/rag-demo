@@ -96,13 +96,6 @@ Follow the instructions below to set up the project environment and dependencies
       HF_TOKEN = ""
       ```
 
-5. **Install project dependencies:**
-
-    Navigate to the root directory of the project and install the dependencies using Poetry:
-
-    ```sh
-    poetry install
-    ```
 
 ### Adding Future Dependencies
 
