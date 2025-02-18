@@ -19,7 +19,7 @@ This project showcases the use of Retrieval-Augmented Generation (RAG) through O
    ![google_colab_select_notebook](/image/google_colab_select_notebook.png)
 
 3. **Credentials**
-    - If you are using the **OpenAI models**, input your credentials in the notebook:
+    - If you are using the **OpenAI models**:
         ```python
         OPENAI_BASE_URL = ""
         OPENAI_API_KEY = ""
@@ -29,6 +29,9 @@ This project showcases the use of Retrieval-Augmented Generation (RAG) through O
         HF_TOKEN = ""
         ```
     - To obtain your Hugging Face token, follow the instructions here: https://huggingface.co/docs/hub/en/security-tokens
+
+    if you want to avoid saving the credentials, please use Secrets feature in Google Colab
+    https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
 ## VS Code instructions
 
