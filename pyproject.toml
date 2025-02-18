@@ -6,7 +6,7 @@ authors = ["YuxuanZhang49 <yuxuan_zhang@mckinsey.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
 llama-index = "^0.12.16"
 python-dotenv = "^1.0.1"
 chromadb = "^0.6.3"
@@ -16,7 +16,8 @@ llama-index-llms-huggingface = "^0.4.2"
 llama-index-llms-huggingface-api = "^0.3.1"
 sentence-transformers = "^3.4.1"
 faiss-cpu = "^1.10.0"
-transformers = "^4.48.3"
+streamlit = "^1.42.1"
+transformers = "^4.49.0"
 
 
 [build-system]
