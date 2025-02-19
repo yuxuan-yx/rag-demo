@@ -2,7 +2,6 @@
 name = "rag-demo"
 version = "0.1.0"
 description = ""
-authors = ["YuxuanZhang49 <yuxuan_zhang@mckinsey.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
